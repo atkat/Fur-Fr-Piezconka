@@ -18,7 +18,7 @@ var images = [
     'popups/Neue-Jobs.jpeg',
     'popups/Praktisch.jpeg',
     'popups/Vegleichbar.jpeg',
-    'popups/success.png',
+    'popups/success.jpg',
     'popups/Schaffen.jpeg',
 ]
 
