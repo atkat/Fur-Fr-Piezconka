@@ -9,7 +9,8 @@ $(window).on("click", function(event){
         Img(images[counter])
         .appendTo("body")
         .css("top", event.pageY - 50 +"px")
-        .css("left", event.pageX - 200 + "px")  
+        .css("left", event.pageX - 200 + "px")
+        .draggable()
             
 })
 
